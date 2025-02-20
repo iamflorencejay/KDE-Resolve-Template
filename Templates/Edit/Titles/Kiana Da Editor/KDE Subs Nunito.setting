@@ -1,3 +1,6 @@
+-- KDE Subs Nunito
+-- Made by Kiana Da Editor (https://vgen.co/KianaDaEditor3701)
+-- Please make sure that you have the font Nunito installed. You can download it on https://fonts.google.com/specimen/Nunito
 {
 	Tools = ordered() {
 		KDESubs = MacroOperator {
